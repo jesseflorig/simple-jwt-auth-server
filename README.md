@@ -28,7 +28,7 @@ Then sending a `GET` request to `localhost:8080` with the JSON web token in the 
 ## Todo
  - [ ] Add simple credential hashing strategy
 
-[unauthorized_screenshot]: https://github.com/jesseflorig/simple-jwt-auth-server/screenshots/unauthorized.png "Unauthorized Error"
-[authenticated_screenshot]: https://github.com/jesseflorig/simple-jwt-auth-server/screenshots/authenticated.png "Authenticated"
-[authorized_screenshot]: https://github.com/jesseflorig/simple-jwt-auth-server/screenshots/authorized.png "Authorized"
+[unauthorized_screenshot]: https://raw.githubusercontent.com/jesseflorig/simple-jwt-auth-server/master/screenshots/unauthorized.png  "Unauthorized Error"
+[authenticated_screenshot]: https://raw.githubusercontent.com/jesseflorig/simple-jwt-auth-server/master/screenshots/authenticated.png "Authenticated"
+[authorized_screenshot]: https://raw.githubusercontent.com/jesseflorig/simple-jwt-auth-server/master/screenshots/authorized.png "Authorized"
 
